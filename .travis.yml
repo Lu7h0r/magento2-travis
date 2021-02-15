@@ -15,7 +15,7 @@ env:
 addons:
   hosts:
     # should match PULSESTORM_MAGE2_FAKE_URL above
-    - magento-2-travis.dev
+    - m2abautista-travis.dev
 language: php
 sudo: required
 dist: trusty
